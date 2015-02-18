@@ -69,7 +69,7 @@ for more info.
 
 ### Feedback and acknowledgements
 
-This is Version 1.0 - a scratch programme put together very swiftly as a tool for Trace, a larger project, funded by Arts Council England. It's also my first attempt to post anything on Github so do be kind (and let me know) if you spot anything awry!
+This is Version 1.0 - a scratch programme put together very swiftly as a tool for Trace, a larger project, funded by Arts Council England. 
 
 Developer: [Sarah Angliss](http://www.sarahangliss.com)
 
